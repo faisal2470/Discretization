@@ -18,5 +18,11 @@ $$
 \end{align\*}
 $$
 
+### Conservation of Energy
+The energy conservation equation is given by,
 
-$$ \frac{\partial \rho u}{\partial t} + \nabla \cdot (\rho \vec u \vec u) = -\nabla p + \nabla \cdot (\mu \nabla \vec u) + \vec f $$
+$$ 
+\begin{align\*}
+  \frac{\partial (\rho E)}{\partial t} + u\frac{\partial (\rho E)}{\partial x} + v\frac{\partial (\rho E)}{\partial y} + w\frac{\partial (\rho E)}{\partial z} &= 
+\end{align\*}
+$$

@@ -9,9 +9,10 @@ $$ \frac{\partial \rho}{\partial t} + \frac{\partial (\rho u)}{\partial x} + \fr
 
 ### Conservation of Momentum (Navier-Stokes)
 The momentum conservation equation is given by,
-$$ \begin{align*}
+
+$$ \begin{align\*}
 a &= b
-\end{align*}
+\end{align\*}
 $$
 
 

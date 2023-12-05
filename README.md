@@ -1,4 +1,5 @@
-# Discretization
-Programming a Navier Stokes solver.
+# Navier Stokes Solver
 
-Incompressible Navier Stokes equation.
+The Navier Stokes are a set of conservation laws governing the flow of a fluid. The general form of the Navier Stokes equations are given as follows.
+
+### Convservation of Mass

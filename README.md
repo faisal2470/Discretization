@@ -4,7 +4,7 @@ A Navier Stokes solver does a numerical computation of the conservation laws gov
 
 ### Convservation of Mass
 The mass conservation equation is given by,
-$$ \frac{\partial \rho}{\partial t} $$
+
 
 ### Conservation of Momentum (Navier-Stokes)
 The momentum conservation equation is given by,

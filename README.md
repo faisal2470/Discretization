@@ -26,3 +26,4 @@ $$
   \frac{\partial (\rho E)}{\partial t} + u\frac{\partial (\rho E)}{\partial x} + v\frac{\partial (\rho E)}{\partial y} + w\frac{\partial (\rho E)}{\partial z} &= 
 \end{align\*}
 $$
+

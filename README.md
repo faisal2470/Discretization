@@ -1,7 +1,7 @@
 
 # Navier Stokes Solver
 
-The incompressible form of the Navier Stoked equation is given by,
+The incompressible form of the Navier Stokes equation is given by,
 
 
 $$ \nabla \cdot \vec u = 0 $$

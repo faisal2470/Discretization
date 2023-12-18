@@ -4,6 +4,7 @@ The incompressible form of the Navier Stoked equation is given by,
 
 
 $$ \nabla \cdot \vec u = 0 $$
+
 $$ \frac{\partial \vec u}{\partial t} + (\vec u \cdot \vec \nabla + \vec \nabla p = \frac{1}{Re}\vec u $$
 
 
